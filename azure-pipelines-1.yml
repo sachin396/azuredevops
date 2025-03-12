@@ -6,8 +6,8 @@
 trigger:
 - master
 
-pool:
-  vmImage: mycomputer
+pool: 
+  vmImage: Kartiki
 
 steps:
 - script: echo Hello, world!
