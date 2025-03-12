@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: ubuntu-latest
+  name: mycomputer
 
 steps:
 - task: Maven@3
