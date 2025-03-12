@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool: 
-  name: mycomputer
+  name: Linuxagent
 
 steps:
 - task: Maven@3
